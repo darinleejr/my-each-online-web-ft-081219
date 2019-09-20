@@ -5,6 +5,5 @@ def my_each(array)
       yield[collection(i)]
       i = i + 1 
     end
-  end
   collection 
 end
